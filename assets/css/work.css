@@ -30,9 +30,10 @@
     padding-bottom: 75px;
 }
 .projectdescription{
+    
     position: relative;
     bottom: 30px;
-    white-space: normal;
+    
 
 }
 .tools{
