@@ -1,0 +1,92 @@
+.experience{
+   text-align: left;
+
+   color: black;
+}
+
+.date, .location{
+    text-align:right;
+    
+    white-space: nowrap;
+}
+.title{
+    font-weight: bold;
+    font-style: italic;
+}
+.company{
+    font-size: x-large;
+    font-weight: bold;
+    color: black;
+}
+.description{
+    overflow: hidden;
+    white-space: nowrap;
+}
+.container{
+    padding-bottom: 75px;
+}
+.projectdescription{
+    position: relative;
+    bottom: 30px;
+    white-space: normal;
+
+}
+.tools{
+    font-style: italic;
+}
+#uncimage{
+    position: relative;
+    
+}
+
+#education{
+    background-color: white;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+#name{
+	font-weight: bold;
+    color: black;
+    font-size: 20px;
+    text-shadow: 2px 2px 4px white;
+
+}
+#topid{
+    color:white;
+}
+#work, #education, #projects {
+    background-color:white;
+}
+
+#myskills{
+    font-size: 3px;
+    font-weight: bold;
+    font-family: cursive;
+    position: relative;
+    top: 30px;
+}
+#skills{
+   
+   
+    border-right: 5px solid #000;
+    border-left: 5px solid #000;
+    border-top: 5px solid #000;
+    border-bottom: 5px solid #000;
+    transform: scale(0.7);
+    position: relative;
+    right: 165px;
+    background-color: #d4ebf2;
+    width: 1100px;
+
+}
+#myskillstitle{
+    font-size: xx-large;
+    position: relative;
+    left: 450px;
+    color: black;
+    font-weight: bold;
+}
