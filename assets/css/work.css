@@ -92,3 +92,7 @@ p{
     font-weight: bold;
     text-shadow: none;
 }
+#chicago{
+position: relative;
+bottom: 40px;
+}
