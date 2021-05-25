@@ -22,8 +22,8 @@
     color: black;
 }
 .description{
-    white-space: normal;
     
+    white-space: nowrap
     
 }
 .container{
@@ -32,7 +32,7 @@
 .projectdescription{
     position: relative;
     bottom: 30px;
-  
+    white-space: nowrap;
 
 }
 .tools{
