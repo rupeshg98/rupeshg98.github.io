@@ -23,7 +23,7 @@
 }
 .description{
     
-    white-space:initial;
+    white-space:normal;
     
 }
 .container{
@@ -32,7 +32,7 @@
 .projectdescription{
     position: relative;
     bottom: 30px;
-    white-space: nowrap;
+    white-space: normal;
 
 }
 .tools{
