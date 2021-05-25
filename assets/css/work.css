@@ -23,7 +23,7 @@
 }
 .description{
     
-    white-space: nowrap
+    white-space:initial;
     
 }
 .container{
