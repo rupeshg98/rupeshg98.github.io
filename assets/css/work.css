@@ -22,8 +22,8 @@
     color: black;
 }
 .description{
-    overflow: hidden;
-    white-space: nowrap;
+    
+    
 }
 .container{
     padding-bottom: 75px;
@@ -31,7 +31,7 @@
 .projectdescription{
     position: relative;
     bottom: 30px;
-    white-space: normal;
+  
 
 }
 .tools{
@@ -76,7 +76,7 @@ p{
     background-color: #7BAFD4 ;
 }
 #skillsdiv{
-    border: solid;
+    
     transform: scale(1.5);
 }
 #myskillstitle{
