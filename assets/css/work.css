@@ -41,11 +41,14 @@
 }
 #uncimage{
     position: relative;
+    left: 500px;
+    width: 200px;
+    height: 200px;
     
 }
 
 #education{
-    background-color: white;
+    background-color: #7BAFD4;
 }
 
 p{
